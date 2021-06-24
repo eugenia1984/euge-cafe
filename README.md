@@ -4,8 +4,7 @@ ENGLISH
 
 ## What I did 🚀
 
-Today with PROGRAMA DESDE TU CASA we saw BOOTSTRAP at the course: Introduction to Web Programming. <br/>
-I created a Coffe Shop Website in order to practise a bit of Bootstrap.
+In order to practise  BOOTSTRAP I created a Coffe Shop Website in order to practise a bit of Bootstrap.
 
 
 ## Content 🚀
@@ -37,10 +36,9 @@ ESPAÑOL
 
 # Euge café con Bootstrap
 
-## Lo que hice 🚀
+## Lo que hice
 
-Hoy con PROGRAMA DESDE TU CASA vimos BOOTSTRAP en el curso: Introducción a la Programación Web. <br/>
-Creé un sitio web de Coffe Shop para practicar un poco de Bootstrap.
+Para practicar BOOTSTRAP creé un sitio web de Coffe Shop para practicar un poco de Bootstrap.
 
 
 ## Contenido 🚀
