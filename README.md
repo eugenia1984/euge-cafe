@@ -4,7 +4,7 @@ ENGLISH
 
 ## What I did 🚀
 
-In order to practise  BOOTSTRAP I created a Coffe Shop Website in order to practise a bit of Bootstrap.
+In order to practise  BOOTSTRAP I created a Coffe Shop Website.
 
 
 ## Content 🚀
@@ -38,7 +38,7 @@ ESPAÑOL
 
 ## Lo que hice
 
-Para practicar BOOTSTRAP creé un sitio web de Coffe Shop para practicar un poco de Bootstrap.
+Para practicar BOOTSTRAP creé un sitio web de Coffe Shop.
 
 
 ## Contenido 🚀
