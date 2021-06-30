@@ -47,7 +47,7 @@ _Este proyecto solo tiene una sucursal maestra, era un proyecto pequeño por lo 
 
 ## Construido con 🛠️
 
-** HTML 5 **, ** CSS3 ** y ** BOOTSTRAP **
+**HTML 5**, **CSS3** y **BOOTSTRAP**
 
 ## Demo 📦
 _Si quieres ver cómo fue este proyecto, puedes hacerlo desde:
