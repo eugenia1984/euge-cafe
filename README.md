@@ -27,9 +27,12 @@ _If you want to see how this project was, you can do it from:
 * Thanks a lot 🤓.
 
 ---
+
 ## Notes
-I appreciate your interest in this Project <br/>
-⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me at [LinkedIn]( http://www.linkedin.com/in/maríaeugeniacosta)
+
+I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me at [LinkedIn]( http://www.linkedin.com/in/maríaeugeniacosta)
+
+
 ---
 
 ESPAÑOL
