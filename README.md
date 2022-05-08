@@ -53,8 +53,9 @@ Este proyecto solo tiene una sucursal maestra, era un proyecto pequeño por lo q
 **HTML 5**, **CSS3** y **BOOTSTRAP**
 
 ## Demo 📦
-_Si quieres ver cómo fue este proyecto, puedes hacerlo desde:
-: arrow_right: https://eugenia1984.github.io/euge-cafe
+
+-> Si quieres ver cómo fue este proyecto, puedes hacerlo desde:
+:arrow_right: https://eugenia1984.github.io/euge-cafe
  
 
 ## Por favor: 🎁
