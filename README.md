@@ -9,7 +9,7 @@ In order to practise  BOOTSTRAP I created a Coffe Shop Website.
 
 ## Content 🚀
 
-_This Project only has one master branch, it was a small project so it did not need more branches._
+This Project only has one master branch, it was a small project so it did not need more branches.
 
 ## Builded with 🛠️
 
@@ -43,7 +43,7 @@ Para practicar BOOTSTRAP creé un sitio web de Coffe Shop.
 
 ## Contenido 🚀
 
-_Este proyecto solo tiene una sucursal maestra, era un proyecto pequeño por lo que no necesitaba más sucursales_
+Este proyecto solo tiene una sucursal maestra, era un proyecto pequeño por lo que no necesitaba más sucursales
 
 ## Construido con 🛠️
 
@@ -61,7 +61,9 @@ _Si quieres ver cómo fue este proyecto, puedes hacerlo desde:
 * Muchas gracias 🤓.
 
 ---
+
 ## Notas
-Agradezco su interés en este proyecto <br/>
-⌨️ con ❤️ de [María Eugenia Costa] (https://github.com/eugenia1984) 😊 y sígueme en [LinkedIn] (http://www.linkedin.com/in/maríaeugeniacosta)
+
+Agradezco su interés en este proyecto ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y sígueme en 
+[LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta)
 
