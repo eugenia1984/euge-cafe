@@ -30,7 +30,7 @@ _If you want to see how this project was, you can do it from:
 
 ## Notes
 
-I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me at [LinkedIn]( http://www.linkedin.com/in/maríaeugeniacosta)
+I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me at [LinkedIn - maria-eugenia-costa](https://www.linkedin.com/in/maria-eugenia-costa/)
 
 
 ---
@@ -69,5 +69,5 @@ Este proyecto solo tiene una sucursal maestra, era un proyecto pequeño por lo q
 ## Notas
 
 Agradezco su interés en este proyecto ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y sígueme en 
-[LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta)
+[LinkedIn - maria-eugenia-costa](https://www.linkedin.com/in/maria-eugenia-costa/)
 
